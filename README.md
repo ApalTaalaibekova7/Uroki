@@ -20,7 +20,7 @@
 - **`git checkout <ветка>`** — Переключение на указанную ветку.
 - **`git merge <ветка>`** — Слияние указанной ветки с текущей.
 
-  ![Айтишник]([https://www.example.com/image.jpg](https://img.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_1238364-89122.jpg?semt=ais_hybrid))
+  ![Айтишник](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhighload.today%2Fbaba-dolzhna-byt-tihaya-tri-devushki-rasskazyvayut-est-li-seksizm-v-it%2F&psig=AOvVaw3Yoki0K_pexqtO3NbvLrb1&ust=1733085187043000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjf8czzhIoDFQAAAAAdAAAAABAE)
 
 ### Работа с удалёнными репозиториями
 - **`git push`** — Отправка изменений на удалённый репозиторий.
@@ -36,4 +36,5 @@
 - [x] Задача 2
 - [ ] Задача 3
 
-[про Жава Скрипт]([https://www.example.com](https://learn.javascript.ru/))
+[Про Жава Скрипт](https://learn.javascript.ru/)
+
