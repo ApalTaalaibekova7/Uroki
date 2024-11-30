@@ -1,6 +1,8 @@
 # Домашние задания
 
->> ## Команды Git <<
+<apaltaalaibekova7@gmail.com> :blush:
+
+>> ## Команды Git 
 
 ### Основные команды
 - **`git init`** — Инициализация нового репозитория.
@@ -18,6 +20,8 @@
 - **`git checkout <ветка>`** — Переключение на указанную ветку.
 - **`git merge <ветка>`** — Слияние указанной ветки с текущей.
 
+  ![Айтишник]([https://www.example.com/image.jpg](https://img.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_1238364-89122.jpg?semt=ais_hybrid))
+
 ### Работа с удалёнными репозиториями
 - **`git push`** — Отправка изменений на удалённый репозиторий.
 - **`git pull`** — Получение изменений с удалённого репозитория.
@@ -32,3 +36,4 @@
 - [x] Задача 2
 - [ ] Задача 3
 
+[про Жава Скрипт]([https://www.example.com](https://learn.javascript.ru/))
