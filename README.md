@@ -20,7 +20,7 @@
 - **`git checkout <ветка>`** — Переключение на указанную ветку.
 - **`git merge <ветка>`** — Слияние указанной ветки с текущей.
 
-  ![Айтишник](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhighload.today%2Fbaba-dolzhna-byt-tihaya-tri-devushki-rasskazyvayut-est-li-seksizm-v-it%2F&psig=AOvVaw3Yoki0K_pexqtO3NbvLrb1&ust=1733085187043000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjf8czzhIoDFQAAAAAdAAAAABAE)
+  ![Айтишник](https://github.com/ApalTaalaibekova7/Uroki/blob/main/Depositphotos_76219907_L-1024x1024.jpg)
 
 ### Работа с удалёнными репозиториями
 - **`git push`** — Отправка изменений на удалённый репозиторий.
