@@ -2,6 +2,12 @@
 
 <apaltaalaibekova7@gmail.com> :blush:
 
+## Настройка Git
+**git config**
+_Настройка параметров Git:_
+- **`git config --global user.name "Ваше имя"`** — *задает имя пользователя.*
+- **`git config --global user.email "ваш.email@example.com"`** — *задает email пользователя.*
+
 >> ## Команды Git 
 
 ### Основные команды
@@ -10,7 +16,7 @@
 3.  **`git add <файл>`** — Добавление файла в индекс.
 4.  **`git commit -m "Сообщение"`** — _Фиксация изменений с комментарием._
 5.  **`git rm -r src`** файл - удаление
-6.  **`git rm -r --cached src`** файл - _удаляет_  но оставить на рабочем катологе
+6.  **`git rm -r --cached src`** файл - _удаляеn_  файл из репозитория, оставляя его в рабочей директории
 
 - __cached__  - _Операция с индексом вместо рабочей директории_
 
@@ -37,7 +43,7 @@
 - **`--amend`** — Изменение последнего коммита.
 - **`-u`** — Установить upstream для удалённой ветки.
 
-  `<!DOCTYPE html>
+  ```<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -45,12 +51,12 @@
     <title>Git</title>
 </head>
 <body>
-    ```
+    
  <script src="./script.js"></script>
-    ```
+   
    
 </body>
-</html>`
+</html> ```
 
 ## Команды Git
 | Команда         | Описание                                |
