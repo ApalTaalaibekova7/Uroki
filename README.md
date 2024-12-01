@@ -1,4 +1,4 @@
-# Домашние задания
+# Домашнее задание
 
 <apaltaalaibekova7@gmail.com> :blush:
 
